@@ -1,0 +1,127 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+
+
+.headerheight{
+	height: 97px;
+	background-color: #CA1444;
+}
+
+.nav-link{
+	font-size: 16px;
+	color: #FFF!important;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.carousel-inner{
+    height: 500px;
+}
+
+.item, img{
+    height: 100% !important;
+    
+}
+
+
+.heade-caption{
+
+color: #CA1444;
+font-weight: bold;
+
+}
+
+.h-75a{
+
+	height: 220px;
+}
+
+.bg-primary1{
+	padding: 85px 20px!important;
+	background-color: #CA1444;
+	color: #fff;
+	font-weight: bold;
+}
+.bg-primary2{
+	padding: 20px 20px!important;
+	background-color: #CA1444;
+	color: #fff;
+	font-weight: bold;
+}
+
+.bg-primary2 p{
+
+	font-weight: normal;font-size: 16px;
+}
+
+.bghoneymoon{
+	background-image: url('/static/img/Luxury-Honeymoon-Trip-in-India.png');
+	background-size: cover;
+}
+.white{
+	color:#fff;
+}
+
+.linklist{
+	
+	padding: 0;
+}
+.linklist li{
+	list-style-type: none;
+	font-size: 14px;
+}
+
+
+.formcomponents{
+
+	position: absolute;
+	z-index: 1;
+	right: 180px;
+	top: 140px;
+	background-color: #fff;
+	padding:20px 30px;
+	text-align: left;
+
+}
+
+.starts{
+	font-size: 15px;
+	font-weight: bold;
+	vertical-align: top;
+}
+
+.heading-title{
+	position: absolute;
+	z-index: 1;
+	width: 500px;
+	top: 180px;
+	left:150px;
+	color: #fff;
+	text-align: left;
+
+}
+
+.heading-title h1{
+	font-size: 60px;
+text-shadow: 1px 1px 2px #000;
+}
+
+.heading-title p, .heading-title h2 {
+	text-shadow: 1px 1px 2px #000;
+
+}
+
+.overlay{
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+ul{
+	padding: 0;
+	margin: 0;
+}
+

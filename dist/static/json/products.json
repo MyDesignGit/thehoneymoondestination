@@ -1,0 +1,56 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "name": "Maldives Escape",
+    "destination":"Maldives",
+    "type":"beach",
+    "nights":"2 Nights / 3 days",
+    "product_desc": "International packages",
+    "product_price":"15000",
+    "product_value":"300000",
+    "img_src":"static/img/WelcomHotel-Jodhpur-1.jpg",
+    "highlights_img":"static/img/highlights.png",
+    "flights_img":"static/img/flight.jpg",
+    "hotel_img":"static/img/hotel.png",
+    "meals_img":"static/img/meals.png"
+
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "name": "Sunny Getaway",
+    "destination":"Bali",
+    "type":"beach",
+    "nights":"2 Nights / 3 days",
+    "product_desc": "International packages",
+    "product_price":"15000",
+    "product_value":"300000",
+    "img_src":"static/img/WelcomHotel-Jodhpur-1.jpg",
+    "highlights_img":"static/img/highlights.png",
+    "flights_img":"static/img/flight.jpg",
+    "hotel_img":"static/img/hotel.png",
+    "meals_img":"static/img/meals.png"
+
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "name": "New South Wales",
+    "destination":"Timbumburi",
+    "type":"beach",
+    "nights":"2 Nights / 3 days",
+    "product_desc": "International packages",
+    "product_price":"15000",
+    "product_value":"300000",
+    "img_src":"static/img/WelcomHotel-Jodhpur-1.jpg",
+    "highlights_img":"static/img/highlights.png",
+    "flights_img":"static/img/flight.jpg",
+    "hotel_img":"static/img/hotel.png",
+    "meals_img":"static/img/meals.png"
+
+  }
+   
+ 
+ 
+]
